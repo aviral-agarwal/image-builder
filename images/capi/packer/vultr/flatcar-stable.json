@@ -1,7 +1,10 @@
 {
   "ansible_extra_vars": "ansible_python_interpreter=/opt/bin/python",
   "ansible_user": "core",
+  "arch": "amd64",
   "build_name": "flatcar-stable",
+  "distribution": "flatcar",
+  "distribution_version": "stable",
   "kubernetes_cni_source_type": "http",
   "kubernetes_source_type": "http",
   "os": "2077",

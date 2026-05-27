@@ -201,6 +201,8 @@ flatcar:
     command:
   openstack:
     command:
+  vultr:
+    command:
 photon:
   common-service:
     apparmor:
@@ -538,6 +540,10 @@ ubuntu:
       cloud-initramfs-copymods:
       cloud-initramfs-dyn-netconf:
   scaleway:
+    service:
+    package:
+    command:
+  vultr:
     service:
     package:
     command:

@@ -1,5 +1,8 @@
 {
+  "arch": "amd64",
   "build_name": "ubuntu-2204",
+  "distribution": "Ubuntu",
+  "distribution_version": "22.04",
   "os": "1743",
   "snapshot_name_suffix": "on Ubuntu 22.04",
   "source_image": "ubuntu-22-04-x64"
